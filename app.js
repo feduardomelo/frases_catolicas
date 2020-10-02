@@ -1,5 +1,6 @@
 const resp = document.querySelector("#resp")
 const btn = document.querySelector(".btn")
+const btn_cadastro = document.querySelector(".btn-cadastro")
 const autor = document.querySelector("#autor")
 
 const frases = [
@@ -35,5 +36,15 @@ function sorteio() {
     autor.innerHTML=frases[i].autor
 }
 
+function aparecer() {
+    document
+        .querySelector(".entrada")
+        .classList
+        .toggle("hide")
+        
+}
+
+
 btn.addEventListener("click", sorteio)
+btn_cadastro.addEventListener("click", aparecer)
 

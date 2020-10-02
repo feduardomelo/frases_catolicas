@@ -1,6 +1,18 @@
-.btn {
+button {
     border-radius: 6px;
     height: 40px;
     background-color: rgb(53, 63, 63);
     color: white;
+}
+
+input, textarea {
+    margin: 10px 0;
+}
+
+.hide {
+    opacity: 0;
+}
+
+.entrada {
+    display: grid;
 }
