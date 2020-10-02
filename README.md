@@ -1,3 +1,6 @@
-#SITE DE FRASES DE SANTOS CATÓLICOS
+# SITE DE FRASES DE SANTOS CATÓLICOS
 
--Disponível em: https://silly-jang-cc787e.netlify.app/
+
+- Site para sortear uma frase de Santos católicos
+
+- Disponível em: https://silly-jang-cc787e.netlify.app/
